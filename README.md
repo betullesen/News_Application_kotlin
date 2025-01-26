@@ -29,6 +29,25 @@ This is a simple news application built with Kotlin for Android. It is an Androi
 - **[Glide](https://github.com/bumptech/glide)**: Ensures that news images (such as thumbnails) are loaded quickly and efficiently into ImageViews, providing smooth UI interactions.
 - **[Coroutines](https://developer.android.com/kotlin/coroutines)**: Used to manage asynchronous tasks, allowing data fetching in the background without blocking the UI and providing a responsive experience for users.
 
+
+## Screenshots
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/38853cbc-dc24-4ced-8c9d-5dff6e7f00ba)
+
+![Image](https://github.com/user-attachments/assets/0469f691-6244-46a7-a0fe-8f767c919697)
+
+![Image](https://github.com/user-attachments/assets/b8960663-2f08-440f-a0d4-19add6cd1aa4)
+
+![Image](https://github.com/user-attachments/assets/b7b25a24-d278-4409-9bb0-7a0ff6a76bf0)
+
+![Image](https://github.com/user-attachments/assets/8f718e4b-af8c-48ad-b59d-62981433b005)
+
+
 ## Preview 🎞
 ----------
 ![Image](https://github.com/user-attachments/assets/0fabe85f-f698-44ed-b2dd-0e982baeec7c)
