@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984601109834",
+    "project_id": "newsapplication-42344",
+    "storage_bucket": "newsapplication-42344.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984601109834:android:be21cbfa6fc38232240db3",
+        "android_client_info": {
+          "package_name": "com.betulesen.newsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMO3DNjV8Vlq8lULZ-cGBtsA3loBGJ-no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
