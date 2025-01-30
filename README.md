@@ -43,7 +43,7 @@ This is a simple news application built with Kotlin for Android. It is an Androi
 |----------------|--------------|----------------|
 | ![Splash Screen](https://github.com/user-attachments/assets/38853cbc-dc24-4ced-8c9d-5dff6e7f00ba) | ![Login Screen](https://github.com/user-attachments/assets/0469f691-6244-46a7-a0fe-8f767c919697) | ![News Headlines](https://github.com/user-attachments/assets/b8960663-2f08-440f-a0d4-19add6cd1aa4) |
 
-| News Detail | Favorite News | Additional Image |
+| Favorite News | Search News | News Detail |
 |-------------|---------------|------------------|
 | ![News Detail](https://github.com/user-attachments/assets/b7b25a24-d278-4409-9bb0-7a0ff6a76bf0) | ![Favorite News](https://github.com/user-attachments/assets/8f718e4b-af8c-48ad-b59d-62981433b005) | ![Additional Image](https://github.com/user-attachments/assets/90489b38-27d9-42ff-ac84-a42537029624) |
 
